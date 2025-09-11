@@ -65,6 +65,8 @@ delay(1000);
 ## OUTPUT:
 # OFF:
 <img width="1182" height="835" alt="Screenshot 2025-09-11 095139" src="https://github.com/user-attachments/assets/5139138c-a13a-45d1-b8a0-bf4ab14cbd1e" />
+
+
 # ON:
 <img width="1168" height="816" alt="Screenshot 2025-09-11 095200" src="https://github.com/user-attachments/assets/93da00ce-7a21-46d1-ac9e-b73fdd620ac2" />
 
