@@ -1,7 +1,7 @@
 # NAME:SOUNDARYA J
 # REG NO: 212223220108
 
-# EXP-2 Control-of-Relay-Using-IoT-controller
+# EXP-2 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -74,4 +74,4 @@ delay(1000);
 
 ## RESULT:
 
-Thus the relay is controlled using Arduino controller is done successfully.
+Thus, the relay is controlled using Arduino controller is done successfully.
