@@ -59,16 +59,17 @@ delay(1000);
 
 
 ## CIRCUIT DIAGRAM:
-<img width="1142" height="803" alt="image" src="https://github.com/user-attachments/assets/bd2c2d36-e667-4fa3-a079-6906c3fb1c3d" />
+<img width="1140" height="805" alt="image" src="https://github.com/user-attachments/assets/29d222b6-431a-4fff-8a6c-fc86dfa502b8" />
+
 
 
 ## OUTPUT:
 # OFF:
-<img width="1182" height="835" alt="Screenshot 2025-09-11 095139" src="https://github.com/user-attachments/assets/5139138c-a13a-45d1-b8a0-bf4ab14cbd1e" />
+<img width="1919" height="1017" alt="Screenshot 2025-09-18 082650" src="https://github.com/user-attachments/assets/9e96638d-3b65-4c40-bdbb-866a122b5d89" />
 
 
 # ON:
-<img width="1168" height="816" alt="Screenshot 2025-09-11 095200" src="https://github.com/user-attachments/assets/93da00ce-7a21-46d1-ac9e-b73fdd620ac2" />
+<img width="1911" height="1015" alt="Screenshot 2025-09-18 082629" src="https://github.com/user-attachments/assets/7a894b5a-4602-48fa-b532-a2bcf2ff2631" />
 
 
 
