@@ -55,7 +55,6 @@ void loop() {
 delay(1000);
 }
 ```
-<img width="1918" height="1010" alt="image" src="https://github.com/user-attachments/assets/b5d6addd-2db2-4dab-92e8-5064d25c8051" />
 
 
 ## CIRCUIT DIAGRAM:
