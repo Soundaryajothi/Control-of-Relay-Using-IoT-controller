@@ -64,11 +64,13 @@ delay(1000);
 
 ## OUTPUT:
 # OFF:
-<img width="1919" height="1017" alt="Screenshot 2025-09-18 082650" src="https://github.com/user-attachments/assets/9e96638d-3b65-4c40-bdbb-866a122b5d89" />
+<img width="1177" height="837" alt="image" src="https://github.com/user-attachments/assets/c035c674-3d95-4bd9-8a4c-7aecac3d5c93" />
+
 
 
 # ON:
-<img width="1911" height="1015" alt="Screenshot 2025-09-18 082629" src="https://github.com/user-attachments/assets/7a894b5a-4602-48fa-b532-a2bcf2ff2631" />
+<img width="1172" height="826" alt="Screenshot 2025-09-18 084029" src="https://github.com/user-attachments/assets/8d03a7e2-b986-4f6d-b946-9c41e5a88566" />
+
 
 
 
